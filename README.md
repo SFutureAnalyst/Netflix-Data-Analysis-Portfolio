@@ -1,4 +1,5 @@
-<img src = "https://camo.githubusercontent.com/257c532b19f9b833cb5ba918bf55d91bb5e260ac2072532cc12503bc5f5ae643/68747470733a2f2f692e6962622e636f2f6377367871345a2f696d6167652e706e67">
+
+![Netflix-Marvels-Daredevil-Banner](https://github.com/SFutureAnalyst/Netflix-Data-Analysis-Portfolio/assets/146059342/7eb7c749-ceba-4354-ba50-0dfd7a10bed9)
 
 # Netflix-Data-Analysis
 
@@ -24,7 +25,8 @@ The detailed notebook of the project is [here](Netflix%Data%20Analysis.ipynb).
 <hr>
 
 ## About the dataset
-This project's dataset is an open-source data from __Kaggle__.
+This project's dataset is an open-source data ![Netflix-Marvels-Daredevil-Banner](https://github.com/SFutureAnalyst/Netflix-Data-Analysis-Portfolio/assets/146059342/522cfd61-6c38-4f61-a3b5-70b6f132988e)
+from __Kaggle__.
 <br>
 
 > [You can find it here.](https://www.kaggle.com/datasets/rajakali/netflex-analysis)
